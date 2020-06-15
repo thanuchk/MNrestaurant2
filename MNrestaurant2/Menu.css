@@ -1,0 +1,17 @@
+#topnav{
+    background: #003049;
+  
+}
+#bottomnav{
+    background: #003049;  
+}
+#menucontent{
+    background-image: url('realbg.png') ;
+    transform: translateY(86px);
+    background-size: cover;
+}
+#rgbabg{
+    background: rgba(248,249,250,0.54);
+}
+
+

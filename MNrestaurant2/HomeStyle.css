@@ -1,0 +1,19 @@
+#bottomnav{
+    background: #003049;
+    
+}
+
+#categories a{
+    background: #F77F00;
+    width: 93px;
+    height: 43px;
+}
+#categories{
+    background: white;
+    height: 210px;
+    font-size: 20px;
+}
+.welcome img{
+   width:375px;
+}
+
